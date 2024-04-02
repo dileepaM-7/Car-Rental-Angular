@@ -1,0 +1,82 @@
+{
+  "hash": "d7ce7f20",
+  "configHash": "e546869f",
+  "lockfileHash": "1018e40d",
+  "browserHash": "eee4ea05",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "2870da97",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "2d44f27b",
+      "needsInterop": false
+    },
+    "@angular/common/locales/en": {
+      "src": "../../../../../node_modules/@angular/common/locales/en.mjs",
+      "file": "@angular_common_locales_en.js",
+      "fileHash": "747ff992",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "ce92b788",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "1af10cc6",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "99d5e909",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations/async": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations/async.mjs",
+      "file": "@angular_platform-browser_animations_async.js",
+      "fileHash": "29c2b812",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "438ec462",
+      "needsInterop": false
+    },
+    "ng-zorro-antd/i18n": {
+      "src": "../../../../../node_modules/ng-zorro-antd/fesm2022/ng-zorro-antd-i18n.mjs",
+      "file": "ng-zorro-antd_i18n.js",
+      "fileHash": "3768a9da",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "browser-5GEOW26Y": {
+      "file": "browser-5GEOW26Y.js"
+    },
+    "chunk-ITADWQPN": {
+      "file": "chunk-ITADWQPN.js"
+    },
+    "chunk-MEII74SL": {
+      "file": "chunk-MEII74SL.js"
+    },
+    "chunk-QOM64K4O": {
+      "file": "chunk-QOM64K4O.js"
+    },
+    "chunk-APMNFYV2": {
+      "file": "chunk-APMNFYV2.js"
+    },
+    "chunk-J4B6MK7R": {
+      "file": "chunk-J4B6MK7R.js"
+    }
+  }
+}
